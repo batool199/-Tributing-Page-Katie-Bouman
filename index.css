@@ -13,6 +13,8 @@ h2{
 	color: white;
 }
 .header {
+	background: url(https://www.numerama.com/wp-content/uploads/2019/04/katie-bouman-trou-noir-ingenieure.jpg) center center no-repeat fixed;
+	background-size: cover;
     display: table;
     position: relative;
     width: 100%;
