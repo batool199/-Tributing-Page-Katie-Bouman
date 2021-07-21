@@ -20,7 +20,7 @@ h2{
 .header {
 	top: 0;
 	 z-index: 1;
-	background-image: src(cover) no-repeat fixed;
+	background-image: url (https://d3b8hk1o42ev08.cloudfront.net/wp-content/uploads/2019/04/Katie-Bouman-Black-hole-752x440.jpg) no-repeat fixed;
 	background-size: cover;
     position: relative;
     height: 50%;
