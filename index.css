@@ -1,0 +1,64 @@
+ body {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+h1,h2{
+	float: right;
+	text-shadow:1px 1px black;
+}
+
+h2{
+	color: white;
+}
+.header {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 90%;
+    background: url(https://www.numerama.com/wp-content/uploads/2019/04/katie-bouman-trou-noir-ingenieure.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.text-vertical-center {
+    text-align: center;
+    vertical-align: middle;
+    display: inline-grid;
+    float: left;
+	padding-left: 15px;
+    padding-top: 252px;
+}
+
+.text-vertical-center {
+    display: inline-grid;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.container {
+  margin-top: 50px;
+  margin-left: 15px;
+}
+
+.title {
+  color: white;
+  font-weight: bold;
+}
+
+
+.margin-bottom {
+  margin-bottom: 30px;  
+}
+
+hr {
+    margin: 1rem 0;
+    width: 50%;
+    color: aliceblue;
+    background-color: currentColor;
+    border: 0;
+    opacity: 1.5;
+}
