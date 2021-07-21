@@ -20,7 +20,7 @@ h2{
 .header {
 	top: 0;
 	 z-index: 1;
-	background: url(cover.JPG) no-repeat fixed;
+	background-image: url(cover.JPG) no-repeat fixed;
 	background-size: cover;
     position: relative;
     height: 50%;
